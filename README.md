@@ -19,5 +19,10 @@
 9. Publicar no github
 `git push -u origin main`
 
+Após isso o git vai solicitar colocar login e senha. Dependendo a senha não vai ser a mesma do github, senão vai ser um token que deve ser criado no Github.
+
+Para modificações posteriores ao repośitório usar repetimos os passos 6 ao 9.
+
+
 
 
