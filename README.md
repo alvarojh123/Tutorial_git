@@ -16,7 +16,7 @@
 
 5. Mudar branch
 
-* `git branch -M "main"`
+* `git branch -M main`
 
 6. Mandar arquivos para stage
 
