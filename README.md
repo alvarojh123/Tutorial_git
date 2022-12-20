@@ -1,5 +1,8 @@
 # Tutorial sobre o uso do git e github 
- 
+
+**Alvaro J. Lopez**
+
+
 ## Início rápido
 
 1. Criamos um novo repositório no github.
