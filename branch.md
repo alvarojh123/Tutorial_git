@@ -22,4 +22,4 @@
 
 * Fazer um merge entre branches
 
-`git merge novo_branch_01
+`git merge novo_branch_01`
